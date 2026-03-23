@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Awesome Course Collection
+description: Collecting several available awesome online courses, related to Mathematics, Computer Science, Finance, and Humanities.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://chihhsichen.github.io/awesome-course-collection
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+#aux_links:
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
