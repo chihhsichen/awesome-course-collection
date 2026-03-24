@@ -12,8 +12,11 @@ In this part, I list several high-quality **Microeconomy** and **Macroeconomy** 
 ### ECON2018-01 個體經濟學(上)
 
 **Instructor:** 古慧雯
+
 **Semester:** 2021 Fall
+
 **Star:** ⭐️⭐️⭐️⭐️⭐️
+
 **Course Website:** [個體經濟學上 110-1](https://cool.ntu.edu.tw/courses/9075/)
 
 #### Syllabus
@@ -23,8 +26,11 @@ In this part, I list several high-quality **Microeconomy** and **Macroeconomy** 
 ### ECON1020-03 個體經濟學原理與實習
 
 **Instructor:** 江淳芳
+
 **Semester:** 2021 Fall
+
 **Star:** ⭐️⭐️⭐️⭐️⭐️
+
 **Course Website:** [個體經濟學原理與實習 110-1](https://cool.ntu.edu.tw/courses/8332/)
 
 #### Syllabus
@@ -36,8 +42,11 @@ TBD.
 ### ECON2020-01 總體經濟學(上)
 
 **Instructor:** 毛慶生
+
 **Semester:** 2021 Fall; 2022 Fall
+
 **Star:** ⭐️⭐️⭐️⭐️⭐️
+
 **Course Website:** [總體經濟學上 111-1](https://cool.ntu.edu.tw/courses/21182); [總體經濟學上 110-1](https://cool.ntu.edu.tw/courses/9447)
 
 #### Syllabus
@@ -65,8 +74,11 @@ Generally, this course can be seen as an intermediate macroeconomy course. And t
 ### ECON2020-04 總體經濟學(上)
 
 **Instructor:** Hsuan-Li Su
+
 **Semester:** 2025 Fall
+
 **Star:** ⭐️⭐️⭐️⭐️?
+
 **Course Website:** [總體經濟學上 114-1](https://cool.ntu.edu.tw/courses/54228)
 
 #### Syllabus
@@ -85,6 +97,9 @@ Actually I have not watched this lecture yet. However, as it has video lectures,
 ### ECON 總體經濟學原理
 
 **Instructor:** 吳聰敏
+
 **Semester:** 2021 Fall
+
 **Star:** ⭐️⭐️⭐️⭐️?
+
 **Course Website:** [總體經濟學原理](https://homepage.ntu.edu.tw/~ntut019/ecomicro/ecomicro.html)
