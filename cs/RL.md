@@ -85,6 +85,36 @@ By the end of the class students should be able to:
 
 **University Offered:** CMU
 
-**Video Available:** <span style="color:#3CB371; font-weight:bold;"> NO? </span>
+**Video Available:** <span style="color:#DC143C; font-weight:bold;"> YES </span>
 
-**Course Website:** [10-403 Website](https://cmudeeprl.github.io/403_website/)
+**Course Website:** [10-403 Website](https://cmudeeprl.github.io/403_website/); [10-403 2022 Spring Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2272e0fceb-c62f-436c-ae24-ae290162188d%22)
+
+## Reinforcement Learning for Large Language 
+
+**Semester:** 2025 Fall
+
+**University Offered:** UCLA
+
+**Video Available:** <span style="color:#DC143C; font-weight:bold;"> YES </span>
+
+**Course Website:** [RL-LLM](https://ernestryu.com/courses/RL-LLM.html)
+
+## Reinforcement Learning
+
+**Semester:** 2025 Fall
+
+**University Offered:** University of Toronto
+
+**Video Available:** <span style="color:#DC143C; font-weight:bold;"> YES </span>
+
+**Course Website:** [RL-UToronto](https://bereyhi-courses.github.io/rl-utoronto/)
+
+## CS185/285: Deep Reinforcement Learning
+
+**Semester:** 2022 Fall
+
+**University Offered:** UC Berkeley
+
+**Video Available:** <span style="color:#DC143C; font-weight:bold;"> YES </span>
+
+**Course Website:** https://rail.eecs.berkeley.edu/deeprlcourse/
