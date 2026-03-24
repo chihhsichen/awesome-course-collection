@@ -68,3 +68,13 @@ By the end of the class students should be able to:
 * Machine learning: CS229 or equivalent is a prerequisite. We will be assuming knowledge of concepts including, but not limited to (stochastic) gradient descent and cross-validation, and pre-requisites such as probability theory, multivariable calculus, and basic linear algebra.
 * Some familiarity with deep learning: The course will build on deep learning concepts such as backpropagation, convolutional networks, and sequence models such as transformers. The assignments will involve programming in PyTorch. The first week will include a short PyTorch review tutorial.
 * Some familiarity with reinforcement learning: We will assume some familiarity with the basics of reinforcement learning. For introductory material on RL and Markov decision processes (MDPs), see CS221's lectures on MDPs and RL, or see Chapters 3 and 4 of Sutton & Barto.
+
+## 10-403 Deep Reinforcement Learning
+
+**Semester:** 2021 Spring
+
+**University Offered:** CMU
+
+**Video Available:** ?
+
+**Course Website:** [10-403 Website](https://cmudeeprl.github.io/403_website/)
