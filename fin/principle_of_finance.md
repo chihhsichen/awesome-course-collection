@@ -5,6 +5,8 @@ parent: Finance Courses
 nav_order: 10
 ---
 
+# Principle in Finance
+
 In this part, I list several high-quality **Microeconomy** and **Macroeconomy** courses, and their syllabus for reference.
 
 ## Microeconomy
