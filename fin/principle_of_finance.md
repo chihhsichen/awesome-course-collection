@@ -11,6 +11,8 @@ In this part, I list several high-quality **Microeconomy** and **Macroeconomy** 
 
 ### ECON2018-01 個體經濟學(上)
 
+#### Basic Information
+
 **Instructor:** 古慧雯
 
 **Semester:** 2021 Fall
@@ -24,6 +26,8 @@ In this part, I list several high-quality **Microeconomy** and **Macroeconomy** 
 本課程之目的在於了解市場如何運作,內容包括:消費者的選擇行為、廠商的生產決策、競爭均衡的形成、獨占與寡占市場結構探討、訊息問題與外部性問題、政府的角色。
 
 ### ECON1020-03 個體經濟學原理與實習
+
+#### Basic Information
 
 **Instructor:** 江淳芳
 
@@ -40,6 +44,8 @@ TBD.
 ## Macroeconomy
 
 ### ECON2020-01 總體經濟學(上)
+
+#### Basic Information
 
 **Instructor:** 毛慶生
 
@@ -73,6 +79,8 @@ Generally, this course can be seen as an intermediate macroeconomy course. And t
 
 ### ECON2020-04 總體經濟學(上)
 
+#### Basic Information
+
 **Instructor:** Hsuan-Li Su
 
 **Semester:** 2025 Fall
@@ -95,6 +103,8 @@ This is an intermediate macroeconomic course taught in English. This course will
 Actually I have not watched this lecture yet. However, as it has video lectures, I think it is worth to appear here.
 
 ### ECON 總體經濟學原理
+
+#### Basic Information
 
 **Instructor:** 吳聰敏
 
