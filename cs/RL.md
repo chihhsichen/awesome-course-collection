@@ -15,7 +15,7 @@ In this era, RL is an interesting and popular research topic.
 
 **University Offered:** UCSB
 
-**Video Available:** YES
+**Video Available:** <span style="color:#DC143C; font-weight:bold;"> YES </span>
 
 **Course Website:** [CS292F](https://cseweb.ucsd.edu/~yuxiangw/classes/RLCourse-2021Spring/)
 
@@ -25,7 +25,7 @@ In this era, RL is an interesting and popular research topic.
 
 **University Offered:** UIUC
 
-**Video Available:** YES
+**Video Available:** <span style="color:#DC143C; font-weight:bold;"> YES </span>
 
 **Course Website:** [CS542 SRL](http://nanjiang.cs.illinois.edu/cs542/)
 
@@ -49,7 +49,7 @@ Topics Covered in Lectures:
 
 **University Offered:** Stanford
 
-**Video Available:** YES
+**Video Available:** <span style="color:#DC143C; font-weight:bold;"> YES </span>
 
 **Course Website:** [CS234](https://web.stanford.edu/class/cs234/index.html); [CS234 YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX)
 
@@ -69,7 +69,7 @@ By the end of the class students should be able to:
 
 **University Offered:** Stanford
 
-**Video Available:** YES
+**Video Available:** <span style="color:#DC143C; font-weight:bold;"> YES </span>
 
 **Course Website:** [CS224R YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL); [CS224R](https://cs224r.stanford.edu/)
 
@@ -85,6 +85,6 @@ By the end of the class students should be able to:
 
 **University Offered:** CMU
 
-**Video Available:** ?
+**Video Available:** <span style="color:#3CB371; font-weight:bold;"> NO? </span>
 
 **Course Website:** [10-403 Website](https://cmudeeprl.github.io/403_website/)
