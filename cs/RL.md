@@ -1,3 +1,13 @@
+---
+layout: default
+title: Reinforcement Learning
+parent: Computer Science Courses
+nav_order: 30
+---
+
+# Reinforcement Learning
+
+In this era, RL is an interesting and popular research topic.
 
 ## CS292F: Statistical Foundation of Reinforcement Learning
 
