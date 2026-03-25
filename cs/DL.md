@@ -53,6 +53,18 @@ In this section, we mainly focus on the basic deep learning courses, natural lan
 
 **Course Website:** [CS182 2021 Spring](https://cs182sp21.github.io/)
 
+## Deep Learning
+
+**Semester:** 2023 Spring
+
+**University Offered:** University of Tübingen
+
+**Instructor:** **Sergey Levine**
+
+**Video Available:** <span style="color:#DC143C; font-weight:bold;"> YES </span>
+
+**Course Website:** [UofT DL](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/deep-learning/)
+
 # Natural Language Processing
 
 # Computer Vision

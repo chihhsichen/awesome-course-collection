@@ -10,3 +10,5 @@ toc_enabled: true
 
 aux_links:
   Chih-Hsi Chen: https://chihhsichen.github.io
+
+nav_external_links_new_tab: true
