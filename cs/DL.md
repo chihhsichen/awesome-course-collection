@@ -63,10 +63,41 @@ In this section, we mainly focus on the basic deep learning courses, natural lan
 
 **Video Available:** <span style="color:#DC143C; font-weight:bold;"> YES </span>
 
-**Course Website:** [UofT DL](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/deep-learning/)
+**Course Website:** [University of Tübingen DL Course](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/deep-learning/)
+
+## TTIC 31230: Fundamentals of Deep Learning
+
+**Semester:** 2025 Spring
+
+**University Offered:** TTIC
+
+**Instructor:** **David McAllester**
+
+**Video Available:** <span style="color:#DC143C; font-weight:bold;"> YES </span>
+
+**Course Website:** [TTIC 31230 Fundamentals of Deep Learning](https://mcallester.github.io/ttic-31230/)
 
 # Natural Language Processing
 
 # Computer Vision
 
 # Generative Models
+
+## CS6785: Deep Probabilistic and Generative Models
+
+**Semester:** 2024 Spring
+
+**University Offered:** Cornell
+
+**Instructor:** **Volodymyr Kuleshov**
+
+**Video Available:** <span style="color:#DC143C; font-weight:bold;"> YES </span>
+
+**Course Website:** [CS6785 Deep Probabilistic and Generative Models](https://canvas.cornell.edu/courses/63240)
+
+### Prerequisites
+* Basic knowledge about machine learning from at least one of: CS4780, CS4701, CS5785.
+* Basic knowledge of probability and calculus: students will work with computational and mathematical models.
+* Basic knowledge of deep neural networks (CNNs, RNNs; CS5787). Experience implementing deep neural networks is not required but will be helpful for the class project.
+* Proficiency in a programming language (preferably Python).
+
