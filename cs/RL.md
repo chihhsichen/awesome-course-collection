@@ -9,6 +9,8 @@ nav_order: 30
 
 In this era, RL is an interesting and popular research topic.
 
+---
+
 ## CS292F: Statistical Foundation of Reinforcement Learning
 
 **Semester:** 2021 Fall
@@ -18,6 +20,8 @@ In this era, RL is an interesting and popular research topic.
 **Video Available:** <span style="color:#DC143C; font-weight:bold;"> YES </span>
 
 **Course Website:** [CS292F](https://cseweb.ucsd.edu/~yuxiangw/classes/RLCourse-2021Spring/)
+
+---
 
 ## CS542: Statistical Reinforcement Learning
 
@@ -43,6 +47,8 @@ Topics Covered in Lectures:
 * PAC exploration theory (function approximation).
 * Partial observability and dynamical system modeling.
 
+---
+
 ## CS234: Reinforcement Learning
 
 **Semester:** 2024 Winter
@@ -63,6 +69,8 @@ By the end of the class students should be able to:
 * Describe (list and define) multiple criteria for analyzing RL algorithms and evaluate algorithms on these metrics: e.g. regret, sample complexity, computational complexity, empirical performance, convergence, etc (as assessed by assignments and the exam).
 * Describe the exploration vs exploitation challenge and compare and contrast at least two approaches for addressing this challenge (in terms of performance, scalability, complexity of implementation, and theoretical guarantees) (as assessed by an assignment and the exam).
 
+---
+
 ## CS224R Deep Reinforcement Learning
 
 **Semester:** 2025 Spring
@@ -79,6 +87,8 @@ By the end of the class students should be able to:
 * Some familiarity with deep learning: The course will build on deep learning concepts such as backpropagation, convolutional networks, and sequence models such as transformers. The assignments will involve programming in PyTorch. The first week will include a short PyTorch review tutorial.
 * Some familiarity with reinforcement learning: We will assume some familiarity with the basics of reinforcement learning. For introductory material on RL and Markov decision processes (MDPs), see CS221's lectures on MDPs and RL, or see Chapters 3 and 4 of Sutton & Barto.
 
+---
+
 ## 10-403 Deep Reinforcement Learning
 
 **Semester:** 2021 Spring
@@ -89,7 +99,9 @@ By the end of the class students should be able to:
 
 **Course Website:** [10-403 Website](https://cmudeeprl.github.io/403_website/); [10-403 2022 Spring Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2272e0fceb-c62f-436c-ae24-ae290162188d%22)
 
-## Reinforcement Learning for Large Language 
+---
+
+## Reinforcement Learning for Large Language Models
 
 **Semester:** 2025 Fall
 
@@ -98,6 +110,8 @@ By the end of the class students should be able to:
 **Video Available:** <span style="color:#DC143C; font-weight:bold;"> YES </span>
 
 **Course Website:** [RL-LLM](https://ernestryu.com/courses/RL-LLM.html)
+
+---
 
 ## Reinforcement Learning
 
@@ -109,6 +123,8 @@ By the end of the class students should be able to:
 
 **Course Website:** [RL-UToronto](https://bereyhi-courses.github.io/rl-utoronto/)
 
+---
+
 ## CS185/285: Deep Reinforcement Learning
 
 **Semester:** 2022 Fall
@@ -118,3 +134,63 @@ By the end of the class students should be able to:
 **Video Available:** <span style="color:#DC143C; font-weight:bold;"> YES </span>
 
 **Course Website:** https://rail.eecs.berkeley.edu/deeprlcourse/
+
+---
+
+## 263-5255-00L: Foundations of Reinforcement Learning
+
+**Semester:** 2021 Fall
+
+**University Offered:** ETH Zurich
+
+**Video Available:** <span style="color:#DC143C; font-weight:bold;"> YES </span>
+
+**Course Website:** [ETH RL](https://video.ethz.ch/!s/Og6xVZ1gOLf)
+
+---
+
+## EE-618: Theory and Methods for Reinforcement Learning
+
+**Semester:** 2023 Fall
+
+**University Offered:** EPFL
+
+**Video Available:** <span style="color:#2E8B57; font-weight:bold;"> NO </span>
+
+**Course Website:** [EE-618 Theory and Methods for RL](https://www.epfl.ch/labs/lions/teaching/past-courses/ee-618-theory-and-methods-for-reinforcement-learning/)
+
+---
+
+## EE-568: Reinforcement Learning
+
+**Semester:** 2025 Fall
+
+**University Offered:** EPFL
+
+**Video Available:** <span style="color:#2E8B57; font-weight:bold;"> NO </span>
+
+**Course Website:** [EE-568 Reinforcement Learning](https://www.epfl.ch/labs/lions/teaching/reinforcement-learning/)
+
+### Course Content
+
+* Reinforcement Learning (RL)
+* Markov Decision Process (MDP)
+* Dynamic Programming 
+* Linear Programming 
+* Policy Gradients 
+* Deep Reinforcement Learning (Deep RL)
+* Imitation Learning 
+* Markov Games 
+* Robust Reinforcement Learning 
+* RL Algorithms (e.g., Q-Learning, SARSA, TRPO, PPO)
+* Offline Reinforcement Learning 
+* Behavior Cloning 
+* Inverse Reinforcement Learning 
+* Equilibrium 
+* Robustness
+
+### Course Prerequisites
+
+* Previous coursework in **optimization**, **calculus**, **linear algebra**, and **probability** is required. 
+* Familiarity with optimization is *useful*. 
+* Familiarity with python, and basic knowledge of pytorch deep learning framework is needed.
