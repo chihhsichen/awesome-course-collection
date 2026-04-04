@@ -11,6 +11,10 @@ In this era, RL is an interesting and popular research topic.
 
 ---
 
+# Statistical Reinforcement Learning and Foundation of Reinforcement Learning
+
+This part is always related to mathematical foundations of RL.
+
 ## CS292F: Statistical Foundation of Reinforcement Learning
 
 **Semester:** 2021 Fall
@@ -70,6 +74,34 @@ By the end of the class students should be able to:
 * Describe the exploration vs exploitation challenge and compare and contrast at least two approaches for addressing this challenge (in terms of performance, scalability, complexity of implementation, and theoretical guarantees) (as assessed by an assignment and the exam).
 
 ---
+
+# Deep Reinforcement Learning
+
+This is the most popular topic till now.
+
+## CS 185/285: Deep Reinforcement Learning, by UC Berkeley
+
+**Semester**: 2025 Spring
+
+**University Offered**: Stanford
+
+Video Available: YES
+
+Course Website: [CS 185/285 2026 Spring](https://rail.eecs.berkeley.edu/deeprlcourse/); [CS 185/285 2023 Fall](https://rail.eecs.berkeley.edu/deeprlcourse/resources#prev-off)
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+<iframe 
+        width="800" 
+        height="450"
+        src="https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps"
+        title="YouTube video"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+</iframe>
+</div>
+
+
 
 ## CS224R Deep Reinforcement Learning
 

@@ -79,7 +79,11 @@ In this section, we mainly focus on the basic deep learning courses, natural lan
 
 # Natural Language Processing
 
+### 
+
 # Computer Vision
+
+
 
 # Generative Models
 
@@ -93,7 +97,19 @@ In this section, we mainly focus on the basic deep learning courses, natural lan
 
 **Video Available:** <span style="color:#DC143C; font-weight:bold;"> YES </span>
 
-**Course Website:** [CS6785 Deep Probabilistic and Generative Models](https://canvas.cornell.edu/courses/63240)
+**Course Website:** [CS6785 Deep Probabilistic and Generative Models](https://canvas.cornell.edu/courses/63240);
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+<iframe 
+        width="800" 
+        height="450"
+        src="https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B"
+        title="YouTube video"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+</iframe>
+</div>
 
 ### Prerequisites
 * Basic knowledge about machine learning from at least one of: CS4780, CS4701, CS5785.
