@@ -3,6 +3,18 @@ layout: default
 title: Machine Learning and Learning Theory
 parent: Computer Science Courses
 nav_order: 10
+callouts:
+  highlight:
+    color: yellow
+  info:
+    title: Information
+    color: blue
+  website:
+    title: Website
+    color: green
+  warning:
+    title: Warning
+    color: red
 ---
 
 # Machine Learning and Learning Theory
@@ -19,6 +31,8 @@ learning theory is always an interesting and important topic.
 **Instructor:** **Jonathan Shewchuk**
 
 **Video Available:** <span style="color:#DC143C; font-weight:bold;"> YES </span>
+
+{: .website}
 
 **Course Website:** [CS189/289A Website](https://people.eecs.berkeley.edu/~jrs/189/)
 
