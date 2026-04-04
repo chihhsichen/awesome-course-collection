@@ -32,7 +32,7 @@ learning theory is always an interesting and important topic.
 
 **Video Available:** <span style="color:#DC143C; font-weight:bold;"> YES </span>
 
-{: .website}
+{: .website }
 
 **Course Website:** [CS189/289A Website](https://people.eecs.berkeley.edu/~jrs/189/)
 
